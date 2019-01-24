@@ -2,4 +2,7 @@
 
 Flocking Project using NGL
 
-Controls -> Cohesion, Separation using arrow up and down keys
+
+-- CONTROLS --
+
+'UP' arrow key for Separation, 'Down' arrow key for Cohesion, Press and hold '<-' or '->' keys for Alignment and Alignment random, 'Space' key to add Boids, 'C' key to Reset".
